@@ -93,3 +93,19 @@ Sensitivity Insights:
     Increasing volatility (σσ) decreases bond prices due to increased uncertainty.
     Faster mean reversion (αα) stabilizes rates, leading to more predictable bond prices.
     The long-term mean (μμ) significantly influences the level of the yield curve.
+
+## Sensitivity Analysis Plot
+
+Here is the sensitivity analysis plot for the model:
+
+![Sensitivity Analysis](sensitivity1.png)
+
+![Sensitivity Analysis](sensitivity2.png)
+
+## Yield Curve Plot
+
+Here is the Plot obtained by Yield curve modelling:
+
+![Sensitivity Analysis](yield_curve_modelling.png)
+
+    
