@@ -90,9 +90,9 @@ One-Factor vs Two-Factor Models:
 
 Sensitivity Insights:
 
-    Increasing volatility (σσ) decreases bond prices due to increased uncertainty.
-    Faster mean reversion (αα) stabilizes rates, leading to more predictable bond prices.
-    The long-term mean (μμ) significantly influences the level of the yield curve.
+    Increasing volatility (σ) decreases bond prices due to increased uncertainty.
+    Faster mean reversion (α) stabilizes rates, leading to more predictable bond prices.
+    The long-term mean (μ) significantly influences the level of the yield curve.
 
 ## Sensitivity Analysis Plot
 
